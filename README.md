@@ -66,6 +66,14 @@ Olá, me chamo "[Isreal](https://www.instagram.com/rael_paixao/#)", tenho 26 ano
 />
 <img
     aling="left"
+    alt="BOOTSTRAP"
+    title="BOOTSTRAP"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"
+/>
+<img
+    aling="left"
     alt="GIT"
     title="GIT"
     width="30px"
