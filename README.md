@@ -82,6 +82,14 @@ Olá, me chamo "[Isreal](https://www.instagram.com/rael_paixao/#)", tenho 26 ano
 />
 <img
     aling="left"
+    alt="EJS"
+    title="EJS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/color/30/ejs.png"
+/>
+<img
+    aling="left"
     alt="GIMP"
     title="GIMP"
     width="30px"
