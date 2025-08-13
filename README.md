@@ -1,6 +1,6 @@
 ## Israel Paixão 👨🏾‍💻
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front End`**
 
 Olá, me chamo "[Isreal](https://www.instagram.com/rael_paixao/#)", tenho 26 anos e sou natural de São Paulo. Sou desenvolvedor apaixonado por tecnologia e programação, focado em criar soluções práticas e eficientes. Aqui no meu GitHub você encontra projetos diversos, desde aplicações web até scripts voltados para HTML, CSS e JAVASCRIPT. Estou sempre buscando aprender e compartilhar conhecimento!
 
